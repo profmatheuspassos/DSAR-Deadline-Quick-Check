@@ -1,0 +1,6 @@
+{
+  "name": "Privacy QuickCheck",
+  "description": "Deterministic GDPR DSAR deadline and admissibility calculator based on EU Regulation 1182/71 and GDPR Article 12, running 100% offline in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
